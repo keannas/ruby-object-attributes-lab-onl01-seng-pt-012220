@@ -8,4 +8,5 @@ def name
   @name
 end
 
-def 
+def breed
+  
